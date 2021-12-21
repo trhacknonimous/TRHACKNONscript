@@ -167,13 +167,13 @@ if (browserok) {
 
 let audioPlaying = true, backgroundAudio, navigateur,
 navigateur = navigator.userAgent.toLowerCase(),
-//Ajout de la balise <audio>
+
 $('<audio class="audio1" src="https://c.top4top.io/m_21026n5k20.mp3" loop></audio>').prependTo('body'),
 if (!browser.indexOf('firefox') > -1) {
-    //Il ne s'agit pas de Firefox, on ajoute la balise <embed>
+    
     $('<embed id="background-audio" src="https://c.top4top.io/m_21026n5k20.mp3" autostart="1"></embed>').prependTo('body'),
     backgroundAudio = setInterval(function() {
-        //Fonction qui supprime la balise <embed> à la fin
+ 
         $("#background-audio").remove(),
         $('<embed id="background-audio" src="https://c.top4top.io/m_21026n5k20.mp3"></embed>').prependTo('body'),
     }, 120000), // Durée du son (ici 2 minutes en millisecondes)
