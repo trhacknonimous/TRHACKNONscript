@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #####DONT CHANGE THIS########
 ######################
-### Script By INDOnimous
+### Script By TRHACKNOnimous
 ### www.memanon.ml
 ### Don't Change This.!!!
 ######################
