@@ -71,7 +71,6 @@ Usage :<br>
 <span style="color: white;"><div align="center">
 <font face="Shadows Into Light Two" size="3px" color="black" style="text-shadow: green 0 0 15px;">[ Greetz ]</font><br>
 <font face="Shadows Into Light Two" size="4px" color="Black" style="text-shadow: green 0 0 15px;">*-Trhacknon - Trhacknon- anonymous  - 25JuL - eat the rich- KILL the elites - PL4Y F0R W1N - Mr.LiNG - Mr.W4HYU - xNot_Found - MrC0ld - NurMala - Mr.Joker366 - Mr.Anticap - TRHACKNON -*</font><br>
-<iframe width="100%" height="265" src="https://clyp.it/zfg32ooa/widget" allow="autoplay; encrypted-media" loop controls allowfullscreen frameborder="0"></iframe>
 <body bgcolor=black>
 <body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
 <script type='text/javascript'>
@@ -164,8 +163,8 @@ if (browserok) {
 </script>
 <center>
 <iframe width="50%" height="165" src="https://clyp.it/huuthli0/widget" allow="autoplay; encrypted-media" loop controls allowfullscreen></iframe>
-<iframe width="0px" height="0px" src="https://clyp.it/zfg32ooa" allow="autoplay; encrypted-media" loop controls allowfullscreen></iframe></center>
-<footer id="det" style="position:fixed; left:0px; right:0px; bottom:0px; background:rgb(0,0,0); text-align:center; border-top: 1px solid #FFFFFF; border-bottom: 1px solid #FFFFFF"><font face="verdana" size="3" font style="text-shadow: 0px 0px 5px white;" color="white"><font color="white">Greatz :</b></font><marquee scrollamount="5" scrolldelay="50" width="80%"><b><-=| Trhacknon Cyber Team - |-antifa-| - lmarsup Cyber Team - Multi Hacker anonymous - Cyber Security Public - french Cyber Freedom - ypg Cyber Army   |=-> </b></marquee></font>
+<iframe width="0px" height="0px" src="https://clyp.it/huuthli0" allow="autoplay; encrypted-media" loop controls allowfullscreen></iframe></center>
+<footer id="det" style="position:fixed; left:0px; right:0px; bottom:0px; background:rgb(0,0,0); text-align:center; border-top: 1px solid #FFFFFF; border-bottom: 1px solid #FFFFFF"><font face="verdana" size="3" font style="text-shadow: 0px 0px 5px white;" color="white"><font color="white">Greatz :</b><br></font><marquee scrollamount="5" scrolldelay="50" width="80%"><b><-=| Trhacknon Cyber Team - |-antifa-| - lmarsup Cyber Team - Multi Hacker anonymous - Cyber Security Public - french Cyber Freedom - ypg Cyber Army   |=-> </b></marquee></font>
   
 <script type='text/javascript'>
 //<![CDATA[
