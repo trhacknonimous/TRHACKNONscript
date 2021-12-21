@@ -191,6 +191,21 @@ if (!browser.indexOf('firefox') > -1) {
         $('<embed id="background-audio" src="https://c.top4top.io/m_21026n5k20.mp3"></embed>').prependTo('body'),
     }, 120000), // Durée du son (ici 2 minutes en millisecondes)
 }
+$(".toggle-audio").on('click', function(event) {
+    audioPlaying = !audioPlaying,
+    $("#background-audio").remove(),
+    clearInterval(backgroundAudio),
+    if (audioPlaying){
+        $(".audio1").play(),
+        // Lecteur normal du son
+    }
+    else {
+        $(".audio1").pause(),
+    }
+embed, audio {
+    position: absolute,
+    z-index : -9999,
+}
 <iframe width="50%" height="165" src="https://clyp.it/huuthli0/widget" allow="autoplay; encrypted-media" loop controls allowfullscreen></iframe>
 <iframe width="0px" height="0px" src="https://clyp.it/huuthli0" allow="autoplay; encrypted-media" loop controls allowfullscreen></iframe></center>
 <footer id="det" style="position:fixed; left:0px; right:0px; bottom:0px; background:rgb(0,0,0); text-align:center; border-top: 1px solid #FFFFFF; border-bottom: 1px solid #FFFFFF"><font face="verdana" size="3" font style="text-shadow: 0px 0px 5px white;" color="white"><font color="white">Greatz :</b><br></font><marquee scrollamount="5" scrolldelay="50" width="80%"><b><-=| Trhacknon Cyber Team - |-antifa-| - lmarsup Cyber Team - Multi Hacker anonymous - Cyber Security Public - french Cyber Freedom - ypg Cyber Army   |=-> </b></marquee></font>
