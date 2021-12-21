@@ -35,7 +35,7 @@ animation-iteration-count: infinite;
 100% {transform:rotateY(360deg)}
 }
 </style></center>
-<font align=left>
+<font text-align=left>
 INSTALLATION-------------> <br>
 apt update && apt upgrade <br>
 git clone https://github.com/trhacknonimous/TRHACKNONscript <br>
