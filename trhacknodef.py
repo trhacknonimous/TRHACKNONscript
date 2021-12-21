@@ -11,7 +11,7 @@ import sys
 os.system("clear")
 os.system("mkdir TRHACKNOnimous")
 os.system("mv TRHACKNOnimous/ /storage/emulated/0/")
-os.system("mv TRHACKNONscript.html /storage/emulated/0/TRHACKNOnimous/")
+os.system("cp TRHACKNONscript.html /storage/emulated/0/TRHACKNOnimous/")
 print
 print("tu n'as plus qu'à utiliser un outil comme trhacktest, pour uploader le script que tu viens de creer.")
 os.system("sleep 5")
