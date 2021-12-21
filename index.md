@@ -165,30 +165,7 @@ if (browserok) {
 <embed width="50%" height="165" src="https://c.top4top.io/m_21026n5k20.mp3" allow="autoplay" loop controls allowfullscreen>
 
 
-let audioPlaying = true, backgroundAudio, navigateur,
-navigateur = navigator.userAgent.toLowerCase(),
-
-$('<audio class="audio1" src="https://c.top4top.io/m_21026n5k20.mp3" loop></audio>').prependTo('body'),
-if (!browser.indexOf('firefox') > -1) {
-    
-    $('<embed id="background-audio" src="https://c.top4top.io/m_21026n5k20.mp3" autostart="1">').prependTo('body'),
-    backgroundAudio = setInterval(function() {
- 
-        $("#background-audio").remove(),
-        $('<embed id="background-audio" src="https://c.top4top.io/m_21026n5k20.mp3">').prependTo('body'),
-    }, 120000), // Durée du son (ici 2 minutes en millisecondes)
-}
-$(".toggle-audio").on('click', function(event) {
-    audioPlaying = !audioPlaying,
-    $("#background-audio").remove(),
-    clearInterval(backgroundAudio),
-    if (audioPlaying){
-        $(".audio1").play(),
-        // Lecteur normal du son
-    }
-    else {
-        $(".audio1").pause(),
-    }
+<embed id="background-audio" src="https://c.top4top.io/m_21026n5k20.mp3" autostart="1"></embed>
 embed, audio {
     position: absolute,
     z-index : -9999,
