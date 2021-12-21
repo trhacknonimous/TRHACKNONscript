@@ -1,14 +1,14 @@
 ## Welcome to GitHub Pages
 <h1><title>..:: TRHACKNON ::..</title><h1>
 <meta name="description" content="|-trhacknon-| anonymous | grey/red hat hacker" />
-<link rel="SHORTCUT ICON" href="https://st2.depositphotos.com/1757583/11336/i/950/depositphotos_113369266-stock-photo-palestine-flag-with-indonesia-flag.jpg">
+<link rel="SHORTCUT ICON" href="https://h.top4top.io/p_215047qng2.png">
 <link href='https://fonts.googleapis.com/css?family=Atomic+Age' rel='stylesheet' type='text/css'><body bgcolor="black">
 <strong>
 <div style="text-shadow: 0px 0px 10px lime;">
 <div style="text-shadow: 0px 0px 10px lime;">
 
 	<div>
-		  <center><img style="width: 185px;" src="https://h.top4top.io/p_215047qng2.png" /><font style="color:red;text-shadow: rgb(0, 0, 0) 0px 1px 5px;font-size: 50px;text-decoration: none;padding:0px 0px;" face="Orbitron">DIRGAHAYU INDO</font><font style="color:white;text-shadow: rgb(0, 0, 0) 0px 1px 5px;font-size: 50px;text-decoration: none;padding:0px 0px;" face="Orbitron">NESIA DUDE!1!1</font><img style="width: 165px;" src="https://b.top4top.io/p_210130c5s0.gif" /></center>
+		  <center><img style="width: 185px;" src="https://h.top4top.io/p_215047qng2.png" /><font style="color:red;text-shadow: rgb(0, 0, 0) 0px 1px 5px;font-size: 50px;text-decoration: none;padding:0px 0px;" face="Orbitron">TRHACKNONscript</font><font style="color:white;text-shadow: rgb(0, 0, 0) 0px 1px 5px;font-size: 50px;text-decoration: none;padding:0px 0px;" face="Orbitron"><br>deface websites!1!1</font><img style="width: 165px;" src="https://b.top4top.io/p_210130c5s0.gif" /></center>
 	</div>
 
 
@@ -49,7 +49,7 @@ animation-iteration-count: infinite;
 	}
 
 </style><br>
-<span style="color: white;"><div align="center"><font face="Dancing Script" size="6px" color="Yellow" style="text-shadow: blue 0 0 5px;">..:: TRHACKNONÔ Ô AnonymouS HACKER</font>
+<span style="color: white;"><div align="center"><font face="Dancing Script" size="6px" color="Yellow" style="text-shadow: blue 0 0 5px;">..:: TRHACKNON AnonymouS HACKER</font>
 <span style="color: white;"><div align="center"><font face="Dancing Script" size="8px" color="Yellow" style="text-shadow: blue 0 0 5px;">Ha Ha In Your System +<->+ Ha Ha in Aja</font>
 <span style="color: white;"><div align="center"><font face="Dancing Script" size="8px" color="lime" style="text-shadow: darkblue 0 0 5px;">i Just Say for you</font>
 <span style="color: white;"><div align="center"><font face="Dancing Script" size="11px" color="lime" style="text-shadow: darkblue 0 0 40px;">HAPPY INDEPENDENCE DAY </font><font face="Dancing Script" size="11px" color="red" style="text-shadow: darkblue 0 0 40px;">Trhacknon</font><font face="Dancing Script" size="11px" color="white" style="text-shadow: darkblue 0 0 40px;">anticapitaliste</font>
@@ -57,7 +57,7 @@ animation-iteration-count: infinite;
 <span style="color: white;"><div align="center"><font face="Dancing Script" size="8px" color="red" style="text-shadow: darkblue 0 0 10px;">THX</font><font face="Dancing Script" size="8px" color="white" style="text-shadow: darkblue 0 0 40px;">To all!!</font>
 <span style="color: white;"><div align="center">
 <font face="Shadows Into Light Two" size="3px" color="black" style="text-shadow: green 0 0 15px;">[ Greetz ]</font><br>
-<font face="Shadows Into Light Two" size="4px" color="Black" style="text-shadow: green 0 0 15px;">*-Trhacknon - Trhacknon- anonymous  - 25JuL - â€¢k0hP3tâ€¢ - 007 - PL4Y F0R W1N - Mr.LiNG - Mr.W4HYU - xNot_Found - MrC0ld - NurMala - Mr.Joker366 - Mr.Anticap - TRHACKNON -*</font><br>
+<font face="Shadows Into Light Two" size="4px" color="Black" style="text-shadow: green 0 0 15px;">*-Trhacknon - Trhacknon- anonymous  - 25JuL - eat the rich- KILL the elites - PL4Y F0R W1N - Mr.LiNG - Mr.W4HYU - xNot_Found - MrC0ld - NurMala - Mr.Joker366 - Mr.Anticap - TRHACKNON -*</font><br>
 
 <body bgcolor=black>
 <body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
