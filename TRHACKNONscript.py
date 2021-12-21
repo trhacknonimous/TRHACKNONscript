@@ -32,12 +32,6 @@ mengetik('Welcome to TRHACKNONDeFace, Please use this tools wisely.\n This tools
 os.system("sleep 4")
 os.system("clear")
 print 
-
-print(" _        _   _    _    ____ _  __
-| |_ _ __| | | |  / \  / ___| |/ /_ __   ___  _ __  
-| __| '__| |_| | / _ \| |   | ' /| '_ \ / _ \| '_ \
-| |_| |  |  _  |/ ___ \ |___| . \| | | | (_) | | | |
- \__|_|  |_| |_/_/   \_\____|_|\_\_| |_|\___/|_| |_|")
 print(""+R+"Please "+G+" Do NOT "+R+"use this tool for"+B+" illegal activity")
 print(" [!] "+R+" Keep "+GR+"legal "+R+"don't illegal "+B+" [!]"+G+"")
 print
