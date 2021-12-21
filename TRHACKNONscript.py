@@ -32,7 +32,7 @@ def mengetik(s):
         sys.stdout.flush()
 #kecepatan mengetik
         time.sleep(random.random() * 0.2)
-mengetik('Hallo Sahabat INDO,\n')
+mengetik('we are anonymous ,\n')
 mengetik('Welcome to TRHACKNONDeFace, Please use this tools wisely.\n This tools Recommends you for the lazy coding. \n\t[!!] Please do not change the script..!! [!!] \n Thank you already using this tools.')
 
 os.system("sleep 4")
