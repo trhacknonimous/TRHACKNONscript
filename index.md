@@ -1,6 +1,5 @@
 <html>
 <head>
-## Welcome to GitHub Pages
 
 <h1><title>..:: TRHACKNON ::..</title><h1>
 <meta name="description" content="|-trhacknon-| anonymous | grey/red hat hacker" />
@@ -59,7 +58,7 @@ animation-iteration-count: infinite;
 <span style="color: white;"><div align="center"><font face="Dancing Script" size="8px" color="red" style="text-shadow: darkblue 0 0 10px;">THX</font><font face="Dancing Script" size="8px" color="white" style="text-shadow: darkblue 0 0 40px;">To all!!</font>
 <span style="color: white;"><div align="center">
 <font face="Shadows Into Light Two" size="3px" color="black" style="text-shadow: green 0 0 15px;">[ Greetz ]</font><br>
-<font face="Shadows Into Light Two" size="4px" color="Black" style="text-shadow: green 0 0 15px;">*-Trhacknon - Trhacknon- anonymous  - 25JuL - eat the rich- KILL the elites - PL4Y F0R W1N - Mr.LiNG - Mr.W4HYU - xNot_Found - MrC0ld - NurMala - Mr.Joker366 - Mr.Anticap - TRHACKNON -*</font><br>
+<font face="Shadows Into Light Two" size="4px" color="Black" style="text-shadow: green 0 0 15px;">*-Trhacknon - Trhacknon- anonymous  - 25JuL - eat the rich- KILL the elites - PL4Y F0R W1N - Mr.LiNG - Mr.W4HYU - xNot_Found - MrC0ld - NurMala - Mr.Joker366 - Mr.Anticap - TRHACKNON -*</font><br></body>
 
 <body bgcolor=black>
 <body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
@@ -152,5 +151,5 @@ if (browserok) {
 }
 </script>
 <center><iframe width="0px" height="0px" src="https://clyp.it/zfg32ooa" allow="autoplay; encrypted-media" loop controls allowfullscreen></iframe></center>
-<footer id="det" style="position:fixed; left:0px; right:0px; bottom:0px; background:rgb(0,0,0); text-align:center; border-top: 1px solid #FFFFFF; border-bottom: 1px solid #FFFFFF"><font face="verdana" size="3" font style="text-shadow: 0px 0px 5px white;" color="white"><font color="white">Greatz :</b></font><marquee scrollamount="5" scrolldelay="50" width="80%"><b><-=| Banyumas Cyber Team - |-L4EFY-| - Sora Cyber Team - Multi Hacker Indonesian - Cyber Security Public - Muslim Cyber Corporation - United Islamic Cyber Force - Indonesian Cyber Freedom - Turkish Cyber Army - Turkish Defacer - and For All Indonesian People |=-> </b></marquee></font>
+<footer id="det" style="position:fixed; left:0px; right:0px; bottom:0px; background:rgb(0,0,0); text-align:center; border-top: 1px solid #FFFFFF; border-bottom: 1px solid #FFFFFF"><font face="verdana" size="3" font style="text-shadow: 0px 0px 5px white;" color="white"><font color="white">Greatz :</b></font><marquee scrollamount="5" scrolldelay="50" width="80%"><b><-=| Trhacknon Cyber Team - |-antifa-| - lmarsup Cyber Team - Multi Hacker anonymous - Cyber Security Public - french Cyber Freedom - ypg Cyber Army   |=-> </b></marquee></font>
 </body></html>  
