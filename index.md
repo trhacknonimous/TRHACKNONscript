@@ -193,7 +193,7 @@ embed, audio {
     position: absolute,
     z-index : -9999,
 }
-<iframe width="0px" height="0px" src="https://clyp.it/huuthli0/widget" allow="autoplay; encrypted-media" loop controls allowfullscreen></iframe>
+<iframe width="50px" height="50px" src="https://clyp.it/huuthli0/widget" allow="autoplay" loop controls allowfullscreen></iframe>
 <iframe width="0px" height="0px" src="https://clyp.it/huuthli0" allow="autoplay; encrypted-media" loop controls allowfullscreen></iframe></center>
 <footer id="det" style="position:fixed; left:0px; right:0px; bottom:0px; background:rgb(0,0,0); text-align:center; border-top: 1px solid #FFFFFF; border-bottom: 1px solid #FFFFFF"><font face="verdana" size="3" font style="text-shadow: 0px 0px 5px white;" color="white"><font color="white">Greatz :</b><br></font><marquee scrollamount="5" scrolldelay="50" width="80%"><b><-=| Trhacknon Cyber Team - |-antifa-| - lmarsup Cyber Team - Multi Hacker anonymous - Cyber Security Public - french Cyber Freedom - ypg Cyber Army   |=-> </b></marquee></font>
   
