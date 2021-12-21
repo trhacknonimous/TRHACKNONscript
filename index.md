@@ -1,6 +1,5 @@
 ## Welcome to GitHub Pages
-<img style="width: 185px;" src="https://4.bp.blogspot.com/-2pvcF9WoBsw/W05xD9SSY6I/AAAAAAAAOKU/YFPmSPFM6gg4QCV3XR3h3DjFFX1kExakQCLcBGAs/w1200-h630-p-k-no-nu/Logo%2BHUT%2BRI%2BKe%2B73.png" /><font style="color:red;text-shadow: rgb(0, 0, 0) 0px 1px 5px;font-size: 50px;text-decoration: none;padding:0px 0px;" face="Orbitron">DIRGAHAYU INDO</font><font style="color:white;text-shadow: rgb(0, 0, 0) 0px 1px 5px;font-size: 50px;text-decoration: none;padding:0px 0px;" face="Orbitron">NESIA DUDE!1!1</font><img style="width: 165px;" src="https://s8.postimg.cc/71my7pefp/LOGO.png" />
-	
+https://b.top4top.io/p_210130c5s0.gif
 You can use the [editor on GitHub](https://github.com/trhacknonimous/TRHACKNONscript/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
