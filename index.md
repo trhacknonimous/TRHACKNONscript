@@ -37,6 +37,19 @@ animation-iteration-count: infinite;
 </style></center></head>
 
 <body>
+INSTALLATION-------------> <br>
+apt update && apt upgrade <br>
+git clone https://github.com/trhacknonimous/TRHACKNONscript <br>
+cd TRHACKNONscript <br>
+python2 TRHACKNONscript.py
+
+Second part
+Upload script on website. TRHACKTEST <br>
+Installation :<br>
+bash start.sh <br>
+Usage :<br>
+./trhacktest <url> <output>
+
 	<div><style>
 	body{
 		text-align: center;
