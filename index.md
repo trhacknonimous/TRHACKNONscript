@@ -162,7 +162,7 @@ if (browserok) {
 }
 </script>
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oJ5PfRQB93o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="320" height="165" src="https://www.youtube.com/embed/oJ5PfRQB93o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <embed id="background-audio" src="https://c.top4top.io/m_21026n5k20.mp3" autostart="1">
 <iframe width="150px" height="55px" src="https://clyp.it/huuthli0/widget" allow="autoplay" loop controls allowfullscreen></iframe>
