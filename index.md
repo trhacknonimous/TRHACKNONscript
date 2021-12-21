@@ -162,21 +162,8 @@ if (browserok) {
 }
 </script>
 <center>
-<iframe width="50%" height="165" src="https://c.top4top.io/m_21026n5k20.mp3" allow="autoplay" loop controls allowfullscreen></iframe>
+<embed width="50%" height="165" src="https://c.top4top.io/m_21026n5k20.mp3" allow="autoplay" loop controls allowfullscreen></embed>
 
-Web & Tech
-Fiches
-Développement
-HTML/CSS
-Comment faire fonctionner audio autoplay dans Chrome ?
-La Rédaction
-JDN
- 15/03/21 18:03
-Depuis le mois d'avril 2018, le navigateur a changé de comportement envers l'audio en autoplay. Si vous essayez de lancer un son en autoplay, il sera bloqué par le navigateur. Il n'autorise l'autoplay que si le son est coupé (dans le cas des vidéos), si l'utilisateur a déjà interagi avec la page (en cliquant sur un bouton par exemple) ou s'il a déjà joué une autre vidéo avec du son provenant du même site lors de sa navigation. Sur mobile, le fait d'ajouter le site sur sa page d'accueil ou d'installer la PWA permet également l'autoplay. Si vous souhaitez quand même faire jouer du son en autoplay, il va falloir faire preuve d'ingéniosité.
-
-Suite à cette mise à jour, il existait une solution simple pour contourner ce problème. Elle consistait à utiliser une iFrame pour jouer le son. La balise <iframe> possède un attribut "allow" qui accepte la valeur "autoplay". On pouvait détecter le navigateur avec le JavaScript et remplacer la balise <audio> par la balise <iframe> s'il s'agissait de Chrome. Une autre solution sans JavaScript consistait à ajouter un son silencieux court (autour de 1 seconde) dans une <iframe>. Le fait de jouer ce son signifiait pour Chrome que l'on avait accepté d'écouter de l'audio et il jouait alors les autres vidéos et sons sans couper le volume. Une mise à jour du navigateur Chrome en août 2019 a rendu inutiles ces solutions.
-
-Il existe cependant une autre solution que les équipes de Google n'ont pas encore bloquée. Elle repose sur la balise <embed> qui permet d'intégrer du contenu interactif dans une page. Vous devez au préalable détecter votre navigateur avec l'attribut "navigator.userAgent" pour vérifier qu'il ne s'agit pas de Firefox. La balise <audio> suffit pour ce navigateur. Ajoutez-la dans votre page HTML et utilisez un timer avec la fonction "setInterval()" pour le supprimer une fois la lecture terminée.
 
 let audioPlaying = true, backgroundAudio, navigateur,
 navigateur = navigator.userAgent.toLowerCase(),
