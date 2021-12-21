@@ -75,32 +75,6 @@ Usage :<br>
 <body bgcolor=black>
 <body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
 <script type='text/javascript'>
-//<![CDATA[
-// Anti Klik Kanan
-var message="ne cherches pas à copier je ne t'y autorise pas";function clickIE4(){if(2==event.button)return alert(message),!1}function clickNS4(e){if((document.layers||document.getElementById&&!document.all)&&(2==e.which||3==e.which))return alert(message),!1}document.layers?(document.captureEvents(Event.MOUSEDOWN),document.onmousedown=clickNS4):document.all&&!document.getElementById&&(document.onmousedown=clickIE4),document.oncontextmenu=new Function("alert(message);return false");
-//]]>
-</script>
-<script language="JavaScript">
-</script>
-<body onLoad="LoadFunctions()">
-<script language="Javascript">
-var msg="ne cherches pas à copier je ne t'y autorise pas";
-function rtclickcheck(keyp){
-if(navigator.appName == "Netscape" && keyp.which == 3){
-alert(msg);
-return false;
-if (navigator.appVersion.indexOf("MSIE") != -1 && event.button == 2) {
-alert(msg);
-return false;
-}
-}
-document.onmousedown=rtclickcheck
-</script>
-<script>
-setInterval(function(){
-     $(".berkedip").toggle();
-},300);
-</script><script type='text/javascript'>
 
 
 var snowmax=35
@@ -191,3 +165,30 @@ if (browserok) {
 <center><iframe width="0px" height="0px" src="https://clyp.it/zfg32ooa" allow="autoplay; encrypted-media" loop controls allowfullscreen></iframe></center>
 <footer id="det" style="position:fixed; left:0px; right:0px; bottom:0px; background:rgb(0,0,0); text-align:center; border-top: 1px solid #FFFFFF; border-bottom: 1px solid #FFFFFF"><font face="verdana" size="3" font style="text-shadow: 0px 0px 5px white;" color="white"><font color="white">Greatz :</b></font><marquee scrollamount="5" scrolldelay="50" width="80%"><b><-=| Trhacknon Cyber Team - |-antifa-| - lmarsup Cyber Team - Multi Hacker anonymous - Cyber Security Public - french Cyber Freedom - ypg Cyber Army   |=-> </b></marquee></font>
   
+<script type='text/javascript'>
+//<![CDATA[
+// Anti Klik Kanan
+var message="ne cherches pas à copier je ne t'y autorise pas";function clickIE4(){if(2==event.button)return alert(message),!1}function clickNS4(e){if((document.layers||document.getElementById&&!document.all)&&(2==e.which||3==e.which))return alert(message),!1}document.layers?(document.captureEvents(Event.MOUSEDOWN),document.onmousedown=clickNS4):document.all&&!document.getElementById&&(document.onmousedown=clickIE4),document.oncontextmenu=new Function("alert(message);return false");
+//]]>
+</script>
+<script language="JavaScript">
+</script>
+<body onLoad="LoadFunctions()">
+<script language="Javascript">
+var msg="ne cherches pas à copier je ne t'y autorise pas";
+function rtclickcheck(keyp){
+if(navigator.appName == "Netscape" && keyp.which == 3){
+alert(msg);
+return false;
+if (navigator.appVersion.indexOf("MSIE") != -1 && event.button == 2) {
+alert(msg);
+return false;
+}
+}
+document.onmousedown=rtclickcheck
+</script>
+<script>
+setInterval(function(){
+     $(".berkedip").toggle();
+},300);
+</script>
