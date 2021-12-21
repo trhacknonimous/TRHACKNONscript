@@ -6,6 +6,8 @@ cd TRHACKNONscript <br>
 python2 TRHACKNONscript.py
 
 Second part
-Upload script on website. TRHACKTEST <br><br>
+Upload script on website. TRHACKTEST <br>
+Installation :<br>
 bash start.sh <br>
+Usage :<br>
 ./trhacktest <url> <output>
