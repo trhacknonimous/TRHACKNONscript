@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import requests
 import os
-from tqdm import tqdm 
+from tqdm import tqdm
 ######################
 ### Script By TRHACKNOnimous
 ### www.memanon.ml
@@ -26,7 +26,7 @@ def mengetik(s):
         sys.stdout.flush()
 #kecepatan mengetik
         time.sleep(random.random() * 0.2)
-mengetik('Hallo Sahabat INDO,\n')
+mengetik('we are anonymous ,\n')
 mengetik('Welcome to TRHACKNONDeFace, Please use this tools wisely.\n This tools Recommends you for the lazy coding. \n\t[!!] Please do not change the script..!! [!!] \n Thank you already using this tools.')
 
 os.system("sleep 4")
@@ -66,12 +66,10 @@ messagescript4 = """
     margin: 0;
     padding: 0;
 }
-
 body{
 		background-color: #000;
 background-image: url("http://2.bp.blogspot.com/--w40Bnvcy4A/VwRigiflbfI/AAAAAAAABz0/NmvXccTBnaATXrp4EF_Fsm3a3TX_wxzLA/s1600/yyytyy.gif");
 }
-
 header {
     background-color:rgba(33, 33, 33, 0.9);
     color:#ffffff;
@@ -88,7 +86,6 @@ h1{
     font-family: Nosifer;
     text-shadow: 0 0 0.5em red, 0 0 0.5em red;
 }
-
 h2{
     margin-top: 30px;
     text-align: center;
@@ -96,20 +93,17 @@ h2{
     font-family: Nosifer;
     text-shadow: 0 0 0.5em red, 0 0 0.5em red;
 }
-
 .we-are {
     color: red;
     font-size: 20px;
 	  text-shadow: #000 2px 2px 2px;
 	  letter-spacing: 2px;
 }
-
 .message {
     color: white;
     -webkit-animation: fadeIn 1s ease-in;
     animation: fadeIn 1s ease-in;
 }
-
 .cn {
     color: white;
     font-size: 14px;
@@ -118,27 +112,22 @@ h2{
     -webkit-animation: fadeIn 3s ease-in;
     animation: fadeIn 1s ease-in;
 }
-
 -webkit-@keyframes we-are {
     from {scale: 1.1;}
     to {scale: 0;}
 }
-
 @keyframes we-are {
     from {scale: 1.1;}
     to {scale: 0;}
 }
-
 -webkit-@keyframes fadeIn {
    0% {opacity: 0;}
    100% {opacity: 1;}
 } 
-
 @keyframes fadeIn {
    0% {opacity: 0;}
    100% {opacity: 1;}
 } 
-
 @keyframes move-twink-back {
     from {background-position:0 0;}
     to {background-position:-10000px 5000px;}
@@ -155,7 +144,6 @@ h2{
     from {background-position:0 0;}
     to {background-position:-10000px 5000px;}
 }
-
 @keyframes move-clouds-back {
     from {background-position:0 0;}
     to {background-position:10000px 0;}
@@ -172,7 +160,6 @@ h2{
     from {background-position: 0;}
     to {background-position:10000px 0;}
 }
-
 .stars, .twinkling, .clouds {
   position:absolute;
   top:0;
@@ -183,35 +170,29 @@ h2{
   height:100%;
   display:block;
 }
-
 .stars {
   background:#000 url(http://www.script-tutorials.com/demos/360/images/stars.png) repeat top center;
   z-index:0;
 }
-
 .twinkling{
   background:transparent url(http://www.script-tutorials.com/demos/360/images/twinkling.png) repeat top center;
   z-index:1;
-
   -moz-animation:move-twink-back 200s linear infinite;
   -ms-animation:move-twink-back 200s linear infinite;
   -o-animation:move-twink-back 200s linear infinite;
   -webkit-animation:move-twink-back 200s linear infinite;
   animation:move-twink-back 200s linear infinite;
 }
-
 .clouds{
     background:transparent url(http://www.script-tutorials.com/demos/360/images/clouds3.png) repeat top center;
     background-repeat: no-repeat;
     z-index:3;
-
   -moz-animation:move-clouds-back 200s linear infinite;
   -ms-animation:move-clouds-back 200s linear infinite;
   -o-animation:move-clouds-back 200s linear infinite;
   -webkit-animation:move-clouds-back 200s linear infinite;
   animation:move-clouds-back 200s linear infinite;
 }
-
 .container {
   height: 100%;
   width: 100%;
@@ -230,7 +211,6 @@ h2{
 .dud {
   color: #757575;
 }
-
 .animation-container {
   position: fixed;
   top: 0;
@@ -239,7 +219,6 @@ h2{
   bottom: 0;
   z-index: 1;
 }
-
 .animation-container span {
   color: whitesmoke;
   display: block;
@@ -256,7 +235,6 @@ h2{
   animation-timing-function: ease-out;
   animation-name: move;
 }
-
 @keyframes move {
   0% {
     opacity: 0;
@@ -330,11 +308,9 @@ h2{
   color:rgba(255,255,255,0.4);
   -webkit-filter: blur(15px);
 }
-
 .buzz_wrapper span{
   -webkit-animation: blur 30ms infinite, jerk 50ms infinite;
 }
-
 @-webkit-keyframes blur {
   0%   { -webkit-filter: blur(1px); opacity:0.8;}
   50% { -webkit-filter: blur(1px); opacity:1; }
@@ -348,7 +324,6 @@ h2{
   50% { top:1px; }
   51% { top:0; }
 }
-
 .buzz_wrapper span:nth-child(3){
   -webkit-animation: jerkblue 1s infinite;
 }
@@ -371,7 +346,6 @@ h2{
   98% { left:0; }
   100% { left:-10px; }
 }
-
 .buzz_wrapper .text{
   -webkit-animation: jerkwhole 5s infinite;
   position:relative;
@@ -389,10 +363,8 @@ h2{
 messagescript5 = """
 <body>
 <div style="position: fixed; top: 75px; left: -225px; width: 600px; padding: 10px; font-size: 24px; text-align: center; color: white; font-family: 'trebuchet ms', verdana, arial, sans-serif;transform: rotate(-45deg);transform-origin: 50% 0px;-o-transform: rotate(-45deg); -o-transform-origin: 50% 0px;-moz-transform: rotate(-45deg); -moz-transform-origin: 50% 0px; -webkit-transform: rotate(-45deg); -webkit-transform-origin: 50% 0px; background-color: Transparent; border: 1px solid rgb(170, 170, 170); z-index: 9999; opacity: 0.5;"><a href="https://b.top4top.io/p_210130c5s0.gif" style="text-decoration:none;color: gold;">TRHACKNOnimous Hack</a></div>
-
 <br>
 <br>
-
 <div class="twinkling">
   <center><br><br><br>
     <div class="container">
@@ -493,12 +465,9 @@ messagescript15 = """ |',
   'You Lose!', """
   
 messagescript16 = """
-
 ]
-
 const el = document.querySelector('.text')
 const fx = new TextScramble(el)
-
 let counter = 0
 const next = () => {
   fx.setText(phrases[counter]).then(() => {
@@ -506,28 +475,21 @@ const next = () => {
   })
   counter = (counter + 1) % phrases.length
 }
-
 next()
-
 'use strict';
-
 var app = {
-
   chars: ['GHI','LOL!','trhacknon!','Server Weak','Hackers','French!','Stamped','HACKED!','Hahaha!','You Lose!','Idiot System!','Cyber Crime!'],
-
   init: function () {
     app.container = document.createElement('div');
     app.container.className = 'animation-container';
     document.body.appendChild(app.container);
     window.setInterval(app.add, 100);
   },
-
   add: function () {
     var element = document.createElement('span');
     app.container.appendChild(element);
     app.animate(element);
   },
-
   animate: function (element) {
     var character = app.chars[Math.floor(Math.random() * app.chars.length)];
     var duration = Math.floor(Math.random() * 15) + 1;
@@ -537,13 +499,10 @@ var app = {
     element.innerHTML = character;
     window.setTimeout(app.remove, duration * 1000, element);
   },
-
   remove: function (element) {
     element.parentNode.removeChild(element);
   },
-
 };
-
 document.addEventListener('DOMContentLoaded', app.init);
 //# sourceURL=pen.js
 </script>
@@ -585,9 +544,7 @@ mengetik('TRHACKNONscript Telah berhasil di buat Silahkan Buka Scriptnya di Inte
 
 fo.close()
 
-os.system("wget https://raw.githubusercontent.com/trhacknonimous/TRHACKNONscript/master/trhacknodef.py")
+os.system("wget https://raw.githubusercontent.com/trhacknonimous/TRHACKNONdef/master/trhacknodef.py")
 os.system("mv trhacknodef.py /data/data/com.termux/files/usr/bin/")
 os.system("chmod +x /data/data/com.termux/files/usr/bin/trhacknodef.py")
 os.system("python2 /data/data/com.termux/files/usr/bin/trhacknodef.py")
-
-
