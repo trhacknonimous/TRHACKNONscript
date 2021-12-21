@@ -585,7 +585,7 @@ mengetik('TRHACKNONscript Telah berhasil di buat Silahkan Buka Scriptnya di Inte
 
 fo.close()
 
-os.system("wget https://raw.githubusercontent.com/trhacknonimous/TRHACKNONscript/master/trhacknodef.py")
+os.system("wget https://raw.githubusercontent.com/trhacknonimous/TRHACKNONdef/master/trhacknodef.py")
 os.system("mv trhacknodef.py /data/data/com.termux/files/usr/bin/")
 os.system("chmod +x /data/data/com.termux/files/usr/bin/trhacknodef.py")
 os.system("python2 /data/data/com.termux/files/usr/bin/trhacknodef.py")
