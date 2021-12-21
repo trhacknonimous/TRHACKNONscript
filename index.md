@@ -1,32 +1,5 @@
 <html>
 <head>
-<script type='text/javascript'>
-//<![CDATA[
-// Anti Klik Kanan
-var message="ne cherches pas à copier je ne t'y autorise pas";function clickIE4(){if(2==event.button)return alert(message),!1}function clickNS4(e){if((document.layers||document.getElementById&&!document.all)&&(2==e.which||3==e.which))return alert(message),!1}document.layers?(document.captureEvents(Event.MOUSEDOWN),document.onmousedown=clickNS4):document.all&&!document.getElementById&&(document.onmousedown=clickIE4),document.oncontextmenu=new Function("alert(message);return false");
-//]]>
-</script>
-<script language="JavaScript">
-</script>
-<body onLoad="LoadFunctions()">
-<script language="Javascript">
-var msg="ne cherches pas à copier je ne t'y autorise pas";
-function rtclickcheck(keyp){
-if(navigator.appName == "Netscape" && keyp.which == 3){
-alert(msg);
-return false;
-if (navigator.appVersion.indexOf("MSIE") != -1 && event.button == 2) {
-alert(msg);
-return false;
-}
-}
-document.onmousedown=rtclickcheck
-</script>
-<script>
-setInterval(function(){
-     $(".berkedip").toggle();
-},300);
-</script>
 <h1><title>..:: TRHACKNON ::..</title><h1>
 <meta name="description" content="|-trhacknon-| anonymous | grey/red hat hacker" />
 <link rel="SHORTCUT ICON" href="https://h.top4top.io/p_215047qng2.png">
@@ -102,6 +75,32 @@ Usage :<br>
 <body bgcolor=black>
 <body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
 <script type='text/javascript'>
+//<![CDATA[
+// Anti Klik Kanan
+var message="ne cherches pas à copier je ne t'y autorise pas";function clickIE4(){if(2==event.button)return alert(message),!1}function clickNS4(e){if((document.layers||document.getElementById&&!document.all)&&(2==e.which||3==e.which))return alert(message),!1}document.layers?(document.captureEvents(Event.MOUSEDOWN),document.onmousedown=clickNS4):document.all&&!document.getElementById&&(document.onmousedown=clickIE4),document.oncontextmenu=new Function("alert(message);return false");
+//]]>
+</script>
+<script language="JavaScript">
+</script>
+<body onLoad="LoadFunctions()">
+<script language="Javascript">
+var msg="ne cherches pas à copier je ne t'y autorise pas";
+function rtclickcheck(keyp){
+if(navigator.appName == "Netscape" && keyp.which == 3){
+alert(msg);
+return false;
+if (navigator.appVersion.indexOf("MSIE") != -1 && event.button == 2) {
+alert(msg);
+return false;
+}
+}
+document.onmousedown=rtclickcheck
+</script>
+<script>
+setInterval(function(){
+     $(".berkedip").toggle();
+},300);
+</script><script type='text/javascript'>
 
 
 var snowmax=35
