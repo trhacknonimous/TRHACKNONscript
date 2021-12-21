@@ -1,4 +1,7 @@
+<html>
+<head>
 ## Welcome to GitHub Pages
+
 <h1><title>..:: TRHACKNON ::..</title><h1>
 <meta name="description" content="|-trhacknon-| anonymous | grey/red hat hacker" />
 <link rel="SHORTCUT ICON" href="https://h.top4top.io/p_215047qng2.png">
@@ -12,7 +15,6 @@
 	</div>
 
 
-</script>
 <center><style>
 img{
 animation-name: rotate ;
